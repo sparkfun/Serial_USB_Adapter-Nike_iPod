@@ -1,3 +1,5 @@
+**NOTE: This product has been retired from our catalog and is no longer for sale. This page is made available for those looking for datasheets and the simply curious.**
+
 SparkFun Serial to USB Adapter - Nike+iPod
 ========================================
 
